@@ -1,8 +1,8 @@
 package main
 
 func main() {
-	// Run the simple version that actually works
-	RunSimpleTinyGPT()
+	// Run the context-aware version with proper autoregressive training
+	RunContextTinyGPT()
 }
 
 func min(a, b int) int {
