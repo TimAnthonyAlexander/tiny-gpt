@@ -1,8 +1,8 @@
 package main
 
 func main() {
-	// Run the context-aware version with proper autoregressive training
-	RunContextTinyGPT()
+	// Run the transformer version with causal self-attention
+	RunTransformerTinyGPT()
 }
 
 func min(a, b int) int {
