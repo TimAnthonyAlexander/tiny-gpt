@@ -1,0 +1,17 @@
+{
+  "corpus_path": "data/corpus.txt",
+  "corpus_hash": "87dab81709a4e5ed",
+  "win": 16,
+  "dim": 16,
+  "hidden": 64,
+  "batch": 64,
+  "dropout": 0.2,
+  "l2": 0.00001,
+  "epochs": 25,
+  "lr": 0.001,
+  "clip": 1,
+  "vocab_size": 35,
+  "seed": 1337,
+  "trained_at": "2025-08-24T23:25:51.664575+02:00",
+  "build_version": "dev"
+}

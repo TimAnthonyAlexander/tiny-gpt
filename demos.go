@@ -1,6 +1,6 @@
 package main
 
-func main() {
+func runDemoMain() {
 	// Run the transformer version with causal self-attention
 	RunTransformerTinyGPT()
 }
